@@ -439,3 +439,6 @@ Before opening a change, run the relevant package tests and `npm run release:che
 ## License
 
 See [`LICENSE`](LICENSE).
+## Quick Note for New Contributors
+
+If you are new here, start by reading the guides in `docs/guides/` first. It makes it much easier to understand how Knolo packs and mounts knowledge.
